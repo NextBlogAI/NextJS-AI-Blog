@@ -1,0 +1,42 @@
+
+
+.ant-anchor-link-title {
+  white-space: normal !important;
+  line-height: 1.4;
+  font-size: 18px !important;
+  margin-bottom: 12px !important;
+}
+
+.table-of-contents {
+  mask-image: linear-gradient(to bottom, black calc(100% - 24px), transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black calc(100% - 24px), transparent 100%);
+}
+
+.table-of-contents:not(:hover)::-webkit-scrollbar {
+  display: none;
+}
+
+.markdown-preview {
+  font-size: 18px !important;
+  line-height: 1.8;
+}
+
+.markdown-preview h1 {
+  margin-top: 48px !important;
+  margin-bottom: 16px !important;
+}
+
+.markdown-preview h2 {
+  margin-top: 32px !important;
+  margin-bottom: 12px !important;
+}
+
+.markdown-preview h3 {
+  margin-top: 12px !important;
+  margin-bottom: 6px !important;
+}
+
+.markdown-preview h4 {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+}
