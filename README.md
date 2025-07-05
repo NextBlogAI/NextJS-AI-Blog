@@ -1,3 +1,26 @@
+## Powered by NextBlog
+
+This app is powered by [NextBlog](https://nextblog.ai) — the AI platform that turns your website into a traffic magnet with daily, SEO-optimized blog posts that attract customers on autopilot.
+
+**Key Benefits:**
+- AI analyzes your market and competitors to find ranking opportunities
+- Generates SEO-optimized content that ranks on Google and converts visitors into customers
+- Lightning-fast setup: integrate with any Next.js or React website in minutes
+- Automatic content synchronization and zero configuration required
+- Built-in analytics, internal linking, and mobile-first design
+
+**How it works:**
+1. Connect your site and tell NextBlog about your business
+2. NextBlog researches your market and creates high-quality, ready-to-publish blog posts
+3. Content is automatically delivered to your app, helping you grow organic traffic and leads
+
+Trusted by 300+ businesses worldwide, NextBlog helps you save time, scale content, and win more customers. [Learn more at nextblog.ai](https://nextblog.ai)
+
+
+---
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +57,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
